@@ -7,8 +7,8 @@ As an exmaple screen on T-Echo looks like this.
 
 Each Echo: represents a rebroacast from another node, it is showing rssi and time it was received.
 When using the App, a new node wil apear per rebrodcast , which will also show RSSI and SNR of the received signal , plus the coordinates where the signal was received.
-
+![image](https://github.com/slash-bit/Meshtastic-Echo/blob/main/images/Screenshot_20240603-084325_Meshtastic.jpg)
 It can then be analised later by looking at the phone App map.
 Caveat. Currently the Nodename is shown as a Unknown Name . The plan is to make the Long name showng the time and signal strength and the Short name showing the RSSI level , so it will be easy to see on the map what the signal was and where.
 
- 
+ ![image](https://github.com/slash-bit/Meshtastic-Echo/blob/main/images/Screenshot_20240603-084342_Meshtastic.jpg)
