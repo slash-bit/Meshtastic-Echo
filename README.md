@@ -1,7 +1,7 @@
 # Meshtastic-Echo
 The **Meshtastic-Echo** firmware is a development of the Echo Module. It is designed for mobile use and allows you to discover hidden nodes (those that do not broadcast often) by listening to re-broadcasts of your own position packets.
 
-When you’re on the move, the node broadcasts position pings and listens for rebroadcasts from other nodes. When rebroadcasts are heard, the signal’s Received Signal Strength Indicator (RSSI) and Signal-to-Noise Ratio (SNR) are noted and displayed on the device screen and a phone app.
+When you’re on the move, your node broadcasts position pings and listens for rebroadcasts from other nodes. When rebroadcasts are heard, the signal’s Received Signal Strength Indicator (RSSI) and Signal-to-Noise Ratio (SNR) are noted and displayed on the device screen and a phone app.
 
 As an example, the screen on the T-Echo device looks like this:
 
