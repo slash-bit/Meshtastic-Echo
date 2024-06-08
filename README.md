@@ -15,7 +15,9 @@ When using the app, a new node will appear per rebroadcast. This node will also 
 
 You can then analyze this information later by looking at the phone app map.
 
-Caveat: Currently, the nodename is shown as “Unknown Name.” The plan is to make the long name show the time and signal strength, while the short name will indicate the RSSI level. This way, it will be easy to see on the map what the signal was and where it came from:
+Caveat: Currently, the nodename is shown as “Unknown Name.” The plan is to make the long name show the time and signal strength, while the short name will indicate the RSSI level. 
 
+The map shows where the echo's were received:
+_(the ??? will be replaiced with signal strength later)_
  ![image](https://github.com/slash-bit/Meshtastic-Echo/blob/main/images/Screenshot_20240603-084342_Meshtastic.jpg)
 
